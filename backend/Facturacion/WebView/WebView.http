@@ -1,0 +1,6 @@
+@WebView_HostAddress = http://localhost:5195
+
+GET {{WebView_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
